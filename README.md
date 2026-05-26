@@ -2,10 +2,10 @@
 
 Claude Code / Copilot CLI / Codex CLI / OpenCode に対応した Agent Skills の配布リポジトリです。
 <br>
-Markdown:
+Markdown:<br>
 <img width="593" height="572" alt="image" src="https://github.com/user-attachments/assets/699a7fb1-97d6-4a8f-8447-50d723337a22" />
 <br>
-LC4RI:
+LC4RI:<br>
 <img width="582" height="611" alt="image" src="https://github.com/user-attachments/assets/7294bcce-27c4-40d6-a5bd-705778013c85" />
 
 何故元のMarkdownのまま実行できるようにしないかは以下のような理由です。様々なターミナルオペレーション自動化のために記載を変える必要があります。<br>
