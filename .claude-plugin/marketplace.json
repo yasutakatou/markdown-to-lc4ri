@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "markdown-to-lc4ri",
-  "description": Markdown形式の手順書を、LC4RI (Literate Computing for Reproducible Infrastructure) 形式へ変換します",
+  "description": "Markdown形式の手順書を、LC4RI (Literate Computing for Reproducible Infrastructure) 形式へ変換します"
   "owner": {
     "name": "yasutakatou",
     "url": "https://github.com/yasutakatou"
